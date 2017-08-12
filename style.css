@@ -1,0 +1,12 @@
+body {
+  background: white;
+}
+p.hi{
+  font-family: sans-serif;
+}
+tr.gray{
+  background: gray;
+}
+p.po{
+  background: green;
+}
